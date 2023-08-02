@@ -95,7 +95,7 @@ Hargun Singh
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Stats:**
  
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hargun0360&show_icons=true&theme=radical&layout=compact&langs_count=8&border_radius=16" alt="hargun0360" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hargun0360&hide=HTML&show_icons=true&theme=radical&layout=compact&langs_count=8&border_radius=16" alt="hargun0360" />
 </p>
  
 <p align="center">
