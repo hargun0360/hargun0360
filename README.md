@@ -93,15 +93,7 @@ Hargun Singh
 </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Stats:**
- 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hargun0360&hide=HTML&show_icons=true&theme=radical&layout=compact&langs_count=8&border_radius=16" alt="hargun0360" />
-</p>
- 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hargun0360&theme=radical&border_radius=16" alt="hargun0360" />
-</p>
 
-<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hargun0360&show_icons=true&theme=radical&layout=compact&langs_count=6&border_radius=16" alt="" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hargun0360&theme=radical&border_radius=16" alt="" />
 <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=hargun0360&show_icons=true&theme=radical&count_private=true&border_radius=16">
-</p>
